@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs- Rabbit mq - Webhook Monitor"
+  message: "Welcome to EazyBank accounts related production APIs- Rabbit mq - Webhook Monitor config"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}85b151c9e7d45c11d0c6dab78f951086ba1e8aea4c2aaaed450cc233b1820fe93b121b423d374aeedf3b83118303c54b"
